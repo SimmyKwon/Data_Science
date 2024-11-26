@@ -128,7 +128,7 @@ difference = unique_values_1.symmetric_difference(unique_values_2)
 
 # Print the difference, if any exists
 if difference:
-    print('The two columns have different unique values:')
+    print('The two columns have different unique values:') 
     print(difference)
 else:
     print('The two columns have identical unique values')
