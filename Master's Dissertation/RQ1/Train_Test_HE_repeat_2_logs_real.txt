@@ -1,0 +1,149 @@
+Time: 2025-10-20 09:10:48,739, Message: Device used for training and testing is: cpu
+Time: 2025-10-20 11:43:03,863, Message: Test finished!
+The set of coefficients used is: [30, 21, 21, 21, 21, 21, 21, 30]
+Time: 2025-10-20 11:43:03,863, Message: Total time spent on test: 
+2 hours, 32 minutes, and 47.1 seconds
+Time: 2025-10-20 11:43:03,863, Message: The accuracy for class "T-shirt/top" is: 96.2%
+Time: 2025-10-20 11:43:03,863, Message: The precision for class "T-shirt/top" is: 79.92%
+Time: 2025-10-20 11:43:03,863, Message: The recall for class "T-shirt/top" is: 82.8%
+Time: 2025-10-20 11:43:03,863, Message: The f1_score for class "T-shirt/top" is: 81.34%
+Time: 2025-10-20 11:43:03,863, Message: The accuracy for class "Trouser" is: 99.5%
+Time: 2025-10-20 11:43:03,863, Message: The precision for class "Trouser" is: 97.41%
+Time: 2025-10-20 11:43:03,863, Message: The recall for class "Trouser" is: 97.6%
+Time: 2025-10-20 11:43:03,879, Message: The f1_score for class "Trouser" is: 97.5%
+Time: 2025-10-20 11:43:03,879, Message: The accuracy for class "Pullover" is: 95.78%
+Time: 2025-10-20 11:43:03,879, Message: The precision for class "Pullover" is: 77.21000000000001%
+Time: 2025-10-20 11:43:03,879, Message: The recall for class "Pullover" is: 82.0%
+Time: 2025-10-20 11:43:03,879, Message: The f1_score for class "Pullover" is: 79.53%
+Time: 2025-10-20 11:43:03,879, Message: The accuracy for class "Dress" is: 97.76%
+Time: 2025-10-20 11:43:03,879, Message: The precision for class "Dress" is: 89.75%
+Time: 2025-10-20 11:43:03,879, Message: The recall for class "Dress" is: 87.6%
+Time: 2025-10-20 11:43:03,879, Message: The f1_score for class "Dress" is: 88.66000000000001%
+Time: 2025-10-20 11:43:03,879, Message: The accuracy for class "Coat" is: 95.7%
+Time: 2025-10-20 11:43:03,879, Message: The precision for class "Coat" is: 78.44%
+Time: 2025-10-20 11:43:03,879, Message: The recall for class "Coat" is: 78.60000000000001%
+Time: 2025-10-20 11:43:03,879, Message: The f1_score for class "Coat" is: 78.52%
+Time: 2025-10-20 11:43:03,879, Message: The accuracy for class "Sandal" is: 99.2%
+Time: 2025-10-20 11:43:03,879, Message: The precision for class "Sandal" is: 94.75%
+Time: 2025-10-20 11:43:03,879, Message: The recall for class "Sandal" is: 97.39999999999999%
+Time: 2025-10-20 11:43:03,879, Message: The f1_score for class "Sandal" is: 96.06%
+Time: 2025-10-20 11:43:03,879, Message: The accuracy for class "Shirt" is: 93.84%
+Time: 2025-10-20 11:43:03,879, Message: The precision for class "Shirt" is: 70.69%
+Time: 2025-10-20 11:43:03,879, Message: The recall for class "Shirt" is: 65.60000000000001%
+Time: 2025-10-20 11:43:03,879, Message: The f1_score for class "Shirt" is: 68.05%
+Time: 2025-10-20 11:43:03,879, Message: The accuracy for class "Sneaker" is: 98.86%
+Time: 2025-10-20 11:43:03,879, Message: The precision for class "Sneaker" is: 94.21000000000001%
+Time: 2025-10-20 11:43:03,879, Message: The recall for class "Sneaker" is: 94.39999999999999%
+Time: 2025-10-20 11:43:03,879, Message: The f1_score for class "Sneaker" is: 94.31%
+Time: 2025-10-20 11:43:03,879, Message: The accuracy for class "Bag" is: 99.14%
+Time: 2025-10-20 11:43:03,879, Message: The precision for class "Bag" is: 96.35000000000001%
+Time: 2025-10-20 11:43:03,879, Message: The recall for class "Bag" is: 95.0%
+Time: 2025-10-20 11:43:03,879, Message: The f1_score for class "Bag" is: 95.67%
+Time: 2025-10-20 11:43:03,879, Message: The accuracy for class "Ankle boot" is: 99.22%
+Time: 2025-10-20 11:43:03,879, Message: The precision for class "Ankle boot" is: 97.14%
+Time: 2025-10-20 11:43:03,879, Message: The recall for class "Ankle boot" is: 95.0%
+Time: 2025-10-20 11:43:03,879, Message: The f1_score for class "Ankle boot" is: 96.06%
+Time: 2025-10-20 11:43:03,879, Message: The overall accuracy of the model is 97.52%
+Time: 2025-10-20 11:43:03,879, Message: The overall precision of the model is 87.59%
+Time: 2025-10-20 11:43:03,879, Message: The overall recall of the model is 87.60%
+Time: 2025-10-20 11:43:03,879, Message: The overall f1-score of the model is 87.57%
+Time: 2025-10-20 11:43:04,614, Message: The modulus size used in the test is: 8192
+Time: 2025-10-20 11:43:04,614, Message: The set of coefficients used is: [30, 23, 23, 23, 23, 23, 23, 30]
+Time: 2025-10-20 11:43:04,614, Message: Test started!
+Time: 2025-10-20 14:12:46,751, Message: Test finished!
+Time: 2025-10-20 14:12:46,751, Message: Total time spent on test: 
+2 hours, 29 minutes, and 42.1 seconds
+Time: 2025-10-20 14:12:46,751, Message: The accuracy for class "T-shirt/top" is: 96.2%
+Time: 2025-10-20 14:12:46,751, Message: The precision for class "T-shirt/top" is: 80.04%
+Time: 2025-10-20 14:12:46,751, Message: The recall for class "T-shirt/top" is: 82.6%
+Time: 2025-10-20 14:12:46,751, Message: The f1_score for class "T-shirt/top" is: 81.3%
+Time: 2025-10-20 14:12:46,751, Message: The accuracy for class "Trouser" is: 99.53999999999999%
+Time: 2025-10-20 14:12:46,751, Message: The precision for class "Trouser" is: 98.57000000000001%
+Time: 2025-10-20 14:12:46,751, Message: The recall for class "Trouser" is: 96.8%
+Time: 2025-10-20 14:12:46,751, Message: The f1_score for class "Trouser" is: 97.68%
+Time: 2025-10-20 14:12:46,751, Message: The accuracy for class "Pullover" is: 95.78%
+Time: 2025-10-20 14:12:46,751, Message: The precision for class "Pullover" is: 76.71%
+Time: 2025-10-20 14:12:46,751, Message: The recall for class "Pullover" is: 83.0%
+Time: 2025-10-20 14:12:46,751, Message: The f1_score for class "Pullover" is: 79.73%
+Time: 2025-10-20 14:12:46,751, Message: The accuracy for class "Dress" is: 97.72%
+Time: 2025-10-20 14:12:46,751, Message: The precision for class "Dress" is: 89.55%
+Time: 2025-10-20 14:12:46,751, Message: The recall for class "Dress" is: 87.4%
+Time: 2025-10-20 14:12:46,751, Message: The f1_score for class "Dress" is: 88.46000000000001%
+Time: 2025-10-20 14:12:46,751, Message: The accuracy for class "Coat" is: 95.72%
+Time: 2025-10-20 14:12:46,751, Message: The precision for class "Coat" is: 78.71000000000001%
+Time: 2025-10-20 14:12:46,751, Message: The recall for class "Coat" is: 78.4%
+Time: 2025-10-20 14:12:46,751, Message: The f1_score for class "Coat" is: 78.56%
+Time: 2025-10-20 14:12:46,751, Message: The accuracy for class "Sandal" is: 99.06%
+Time: 2025-10-20 14:12:46,751, Message: The precision for class "Sandal" is: 93.97999999999999%
+Time: 2025-10-20 14:12:46,751, Message: The recall for class "Sandal" is: 96.8%
+Time: 2025-10-20 14:12:46,751, Message: The f1_score for class "Sandal" is: 95.37%
+Time: 2025-10-20 14:12:46,751, Message: The accuracy for class "Shirt" is: 93.94%
+Time: 2025-10-20 14:12:46,751, Message: The precision for class "Shirt" is: 71.09%
+Time: 2025-10-20 14:12:46,751, Message: The recall for class "Shirt" is: 66.4%
+Time: 2025-10-20 14:12:46,751, Message: The f1_score for class "Shirt" is: 68.67%
+Time: 2025-10-20 14:12:46,751, Message: The accuracy for class "Sneaker" is: 98.61999999999999%
+Time: 2025-10-20 14:12:46,751, Message: The precision for class "Sneaker" is: 93.54%
+Time: 2025-10-20 14:12:46,751, Message: The recall for class "Sneaker" is: 92.60000000000001%
+Time: 2025-10-20 14:12:46,751, Message: The f1_score for class "Sneaker" is: 93.07%
+Time: 2025-10-20 14:12:46,751, Message: The accuracy for class "Bag" is: 99.24%
+Time: 2025-10-20 14:12:46,751, Message: The precision for class "Bag" is: 96.76%
+Time: 2025-10-20 14:12:46,751, Message: The recall for class "Bag" is: 95.6%
+Time: 2025-10-20 14:12:46,751, Message: The f1_score for class "Bag" is: 96.17999999999999%
+Time: 2025-10-20 14:12:46,751, Message: The accuracy for class "Ankle boot" is: 99.1%
+Time: 2025-10-20 14:12:46,751, Message: The precision for class "Ankle boot" is: 95.96000000000001%
+Time: 2025-10-20 14:12:46,751, Message: The recall for class "Ankle boot" is: 95.0%
+Time: 2025-10-20 14:12:46,751, Message: The f1_score for class "Ankle boot" is: 95.48%
+Time: 2025-10-20 14:12:46,751, Message: The overall accuracy of the model is 97.49%
+Time: 2025-10-20 14:12:46,751, Message: The overall precision of the model is 87.49%
+Time: 2025-10-20 14:12:46,751, Message: The overall recall of the model is 87.46%
+Time: 2025-10-20 14:12:46,751, Message: The overall f1-score of the model is 87.45%
+Time: 2025-10-20 14:12:47,501, Message: The modulus size used in the test is: 8192
+Time: 2025-10-20 14:12:47,501, Message: The set of coefficients used is: [30, 25, 25, 25, 25, 25, 25, 30]
+Time: 2025-10-20 14:12:47,501, Message: Test started!
+Time: 2025-10-20 16:41:47,56, Message: Test finished!
+Time: 2025-10-20 16:41:47,56, Message: Total time spent on test: 
+2 hours, 28 minutes, and 59.6 seconds
+Time: 2025-10-20 16:41:47,56, Message: The accuracy for class "T-shirt/top" is: 96.22%
+Time: 2025-10-20 16:41:47,56, Message: The precision for class "T-shirt/top" is: 80.31%
+Time: 2025-10-20 16:41:47,56, Message: The recall for class "T-shirt/top" is: 82.39999999999999%
+Time: 2025-10-20 16:41:47,56, Message: The f1_score for class "T-shirt/top" is: 81.34%
+Time: 2025-10-20 16:41:47,56, Message: The accuracy for class "Trouser" is: 99.52%
+Time: 2025-10-20 16:41:47,56, Message: The precision for class "Trouser" is: 98.37%
+Time: 2025-10-20 16:41:47,56, Message: The recall for class "Trouser" is: 96.8%
+Time: 2025-10-20 16:41:47,56, Message: The f1_score for class "Trouser" is: 97.58%
+Time: 2025-10-20 16:41:47,56, Message: The accuracy for class "Pullover" is: 95.98%
+Time: 2025-10-20 16:41:47,56, Message: The precision for class "Pullover" is: 77.74%
+Time: 2025-10-20 16:41:47,56, Message: The recall for class "Pullover" is: 83.8%
+Time: 2025-10-20 16:41:47,56, Message: The f1_score for class "Pullover" is: 80.65%
+Time: 2025-10-20 16:41:47,56, Message: The accuracy for class "Dress" is: 97.68%
+Time: 2025-10-20 16:41:47,56, Message: The precision for class "Dress" is: 89.51%
+Time: 2025-10-20 16:41:47,56, Message: The recall for class "Dress" is: 87.0%
+Time: 2025-10-20 16:41:47,56, Message: The f1_score for class "Dress" is: 88.24%
+Time: 2025-10-20 16:41:47,56, Message: The accuracy for class "Coat" is: 95.74000000000001%
+Time: 2025-10-20 16:41:47,56, Message: The precision for class "Coat" is: 79.35%
+Time: 2025-10-20 16:41:47,56, Message: The recall for class "Coat" is: 77.60000000000001%
+Time: 2025-10-20 16:41:47,56, Message: The f1_score for class "Coat" is: 78.46%
+Time: 2025-10-20 16:41:47,56, Message: The accuracy for class "Sandal" is: 99.11999999999999%
+Time: 2025-10-20 16:41:47,56, Message: The precision for class "Sandal" is: 94.36%
+Time: 2025-10-20 16:41:47,56, Message: The recall for class "Sandal" is: 97.0%
+Time: 2025-10-20 16:41:47,56, Message: The f1_score for class "Sandal" is: 95.66%
+Time: 2025-10-20 16:41:47,56, Message: The accuracy for class "Shirt" is: 93.84%
+Time: 2025-10-20 16:41:47,56, Message: The precision for class "Shirt" is: 69.83%
+Time: 2025-10-20 16:41:47,56, Message: The recall for class "Shirt" is: 67.60000000000001%
+Time: 2025-10-20 16:41:47,56, Message: The f1_score for class "Shirt" is: 68.7%
+Time: 2025-10-20 16:41:47,56, Message: The accuracy for class "Sneaker" is: 98.66%
+Time: 2025-10-20 16:41:47,56, Message: The precision for class "Sneaker" is: 93.21000000000001%
+Time: 2025-10-20 16:41:47,56, Message: The recall for class "Sneaker" is: 93.4%
+Time: 2025-10-20 16:41:47,56, Message: The f1_score for class "Sneaker" is: 93.31%
+Time: 2025-10-20 16:41:47,56, Message: The accuracy for class "Bag" is: 99.33999999999999%
+Time: 2025-10-20 16:41:47,56, Message: The precision for class "Bag" is: 97.36%
+Time: 2025-10-20 16:41:47,56, Message: The recall for class "Bag" is: 96.0%
+Time: 2025-10-20 16:41:47,56, Message: The f1_score for class "Bag" is: 96.67999999999999%
+Time: 2025-10-20 16:41:47,56, Message: The accuracy for class "Ankle boot" is: 99.18%
+Time: 2025-10-20 16:41:47,56, Message: The precision for class "Ankle boot" is: 96.93%
+Time: 2025-10-20 16:41:47,56, Message: The recall for class "Ankle boot" is: 94.8%
+Time: 2025-10-20 16:41:47,56, Message: The f1_score for class "Ankle boot" is: 95.85000000000001%
+Time: 2025-10-20 16:41:47,56, Message: The overall accuracy of the model is 97.53%
+Time: 2025-10-20 16:41:47,56, Message: The overall precision of the model is 87.70%
+Time: 2025-10-20 16:41:47,56, Message: The overall recall of the model is 87.64%
+Time: 2025-10-20 16:41:47,56, Message: The overall f1-score of the model is 87.65%
