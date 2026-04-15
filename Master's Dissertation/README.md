@@ -1,3 +1,5 @@
+## MSc Dissertation
+
 This directory contains the code that I created for my master's thesis.
 
 My master's was done at university of Royal Holloway, and I explored the methods of optimising Fully-Homomorphic Encryption on Deep Learning Frameworks.
