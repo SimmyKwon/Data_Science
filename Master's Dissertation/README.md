@@ -8,7 +8,7 @@ There are 3 main RQs in my dissertation, which are:
 
 Question 1: Investigate the different parameters of the CKKS scheme, and apply various combinations of these parameters on encrypting the image dataset that is used to test deep learning frameworks to discover if the parameter change affects the model’s inference, and find out the parameters that affect the model's performance significantly.
 
-Question 2: To discover the alternatives of f(x) = x^2, which is a function commonly used as an activation function in neural networks that are created to be tested on CKKS encrypted dataset, to apply the widely used activation functions, such as ReLU, approximately. Activation function computes each neuron’s output values (activation) based on inputs in neural networks, and therefore decides the model’s ability to learn complex patterns. It is important to set the right activation for the best performance of the neural network built.
+Question 2: To discover the alternatives of $f(x) = x^2$, which is a function commonly used as an activation function in neural networks that are created to be tested on CKKS encrypted dataset, to apply the widely used activation functions, such as ReLU, approximately. Activation function computes each neuron’s output values (activation) based on inputs in neural networks, and therefore decides the model’s ability to learn complex patterns. It is important to set the right activation for the best performance of the neural network built.
 
 Question 3: To suggest alternative ways of inferring encrypted data to reduce the time of inference while making the test data resilient to attacks. 
 
