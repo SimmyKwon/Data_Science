@@ -1,0 +1,17 @@
+{
+    "Model_name": "Fold_all_var_model_1",
+    "Accuracy": 0.977,
+    "F1_score": 0.9772277227722772,
+    "Column_names": [
+        "PctExtNullSelfRedirectHyperlinksRT",
+        "FrequentDomainNameMismatch",
+        "NumDash",
+        "SubmitInfoToEmail",
+        "PctNullSelfRedirectHyperlinks",
+        "InsecureForms",
+        "NumDots",
+        "PctExtHyperlinks",
+        "NumSensitiveWords",
+        "IframeOrFrame"
+    ]
+}
