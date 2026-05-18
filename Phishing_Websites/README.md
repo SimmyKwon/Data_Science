@@ -8,8 +8,7 @@
 - Developed a data parser that extracts information from the given url for analysis
 - Created an interactive html webpage to use the data parser and ML model, by simply copying and pasting the urls that need to be examined
 
-## 🛠️ Tech Stack
-- **Language:** ![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🛠️ Tech Stack ![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Framework:** Scikit-Learn / PlayWright / FastAPI
 - **DevOps:** Docker (To be uploaded!)
 
