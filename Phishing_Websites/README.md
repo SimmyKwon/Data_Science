@@ -13,24 +13,38 @@
 - **DevOps:** Docker (To be uploaded!)
 
 ---
+## 📁 폴더 구조 (Project Structure)
+```text
+Phishing_Websites/
+├── Model_params/              # All model parameters are stored here
+├── Model_training_testing/    # Code for training and testing model is here
+├── Website_detector/          # Data parser and Web UI are here
+├── model_config.json          # JSON file containing the information of key model
+├── setup.py                   # Script for installing key packages of the project
+└── README.md                  # Explanation of the whole project
+```
 
-## 🏃‍♂️ 시작 가이드 (Getting Started)
+## 🏃‍♂️ Getting Started
 
-### 1. 환경 요구 사항 (Prerequisites)
-- Node.js v18 이상 또는 Java 17 이상 등 필요한 버전을 적어주세요.
+### 1. Prerequisites
+- Python >= 3.11.15
 
-### 2. 설치 및 실행 방법 (Installation)
-프로젝트 코드를 받아서 로컬 환경에서 실행하는 방법입니다.
+### 2. Installation
 
 ```bash
-# 1. 프로젝트 복사 (Clone)
-git clone [https://github.com/사용자이름/저장소이름.git](https://github.com/사용자이름/저장소이름.git)
+# 1. How to clone the project
+git clone [https://github.com/SimmyKwon/Data_Science/Phishing_Websites.git](https://github.com/SimmyKwon/Data_Science/Phishing_Websites.git)
 
-# 2. 프로젝트 폴더로 이동
-cd 저장소이름
+# 2. Change to the current directory
+cd .
 
-# 3. 필요한 라이브러리 설치
-npm install  # (또는 각 언어에 맞는 설치 명령어)
+# 3. Create virtual environment 
+python -m venv [Name of your choice for the project]
 
-# 4. 프로그램 실행
-npm start    # (또는 실행 명령어)
+#For Windows
+# .\[Name of your choice for the project]\Scripts\activate
+#For Mac/Linux
+# source [Name of your choice for the project]/bin/activate
+
+# 4. Install dependencies
+pip install -e .
