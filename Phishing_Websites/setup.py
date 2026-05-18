@@ -24,7 +24,7 @@ setup(
         "scikit-learn==1.8.0",
     ],
     
-    python_requires="==3.11.15",
+    python_requires=">=3.11.15",
 
     # Use CustomInstallCommand after setting up the required packages.
     cmdclass={
